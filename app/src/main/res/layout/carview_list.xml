@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_gray_dark"
+    android:orientation="vertical"
+>
+    <LinearLayout
+        android:id="@+id/ll_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:layout_marginRight="3dp"
+        android:layout_marginTop="1dp"
+        android:orientation="horizontal"
+        android:weightSum="5">
+
+        <TextView
+            android:id="@+id/tv_back"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginRight="3dp"
+            android:layout_weight="1.5"
+            android:background="@drawable/ic_back"
+            android:gravity="center"
+            android:padding="@dimen/activity_margin_normal"
+            android:text="Back"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/et_search"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="2.5"
+            android:background="@drawable/shadow_edit_text_white"
+            android:drawablePadding="@dimen/activity_margin_normal"
+
+            android:hint=""
+            android:imeOptions="actionSearch"
+            android:inputType="textPersonName|textCapWords"
+            android:lines="1"
+            android:maxLength="30"
+            android:padding="5dp"
+            android:paddingLeft="5dp"
+            android:singleLine="true"
+            android:textColorHint="@android:color/black" />
+
+        <TextView
+
+            android:id="@+id/tv_search"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/border_round_orange_bg"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Search"
+            android:textColor="@color/white"
+
+            />
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_car__list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/ll_search"
+        android:background="@color/white">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <TextView
+        android:id="@+id/tv_empty_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="@string/empty_msg"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:visibility="visible" />
+
+
+</RelativeLayout>

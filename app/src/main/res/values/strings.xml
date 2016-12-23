@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CarView</string>
+
+    <string name="read_review">Read Review</string>
+    <string name="write_review">Write Review</string>
+    <string name="write_review_here">Write Review Here</string>
+    <string name="write_heading_here">Write Heading Here</string>
+    <string name="empty_msg">No Records Found</string>
+
+    <string name="choose_your_ride">Choose Your Ride</string>
+    <string name="Welcome_to_cardview">Welcome to CarView</string>
+    <string name="turn_on_ur_headlights">Your View Matters</string>
+    <string name="placehilder_for_car_headlight">Placeholder for car headlight GIF </string>
+
+
+    <string name="select_a_make">Select a Make</string>
+
+    <string name="select_a_model">Select a Model</string>
+    <string name="car_model_and_make">Car Model and Make</string>
+
+    <string name="app_version">App Version:</string>
+
+    <string name="email">Email:</string>
+
+    <string name="dev_name">Developer:</string>
+    <string name="about">About</string>
+    <string name="aboutgvcv">Hello&lt;br /&gt;World!</string>
+
+    <string name="rating">Rating</string>
+
+
+</resources>

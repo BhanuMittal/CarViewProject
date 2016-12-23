@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+            <LinearLayout
+                android:id="@+id/one"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.4"
+                android:orientation="vertical"
+                android:background="@color/slati">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:weightSum="1"
+                    android:gravity="center"
+                    android:layout_gravity="center_horizontal"
+                    android:padding="10dp"
+                    android:layout_marginLeft="45dp"
+                    android:layout_marginRight="45dp">
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:paddingBottom="@dimen/activity_horizontal_margin"
+                        android:paddingTop="10dp"
+                        android:background="@drawable/gradient">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:text="@string/Welcome_to_cardview"
+                            android:textColor="@color/dark_white"
+                            style="@style/welcome_textStyle"
+                            android:gravity="center"/>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:text="@string/turn_on_ur_headlights"
+                            android:textColor="@color/dark_white"
+                            style="@style/welcome_textStyle"
+                            android:gravity="center"/>
+
+
+                    </LinearLayout>
+
+                </LinearLayout>
+                 </LinearLayout>
+            <!--   two-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_below="@+id/one"
+                android:layout_weight="0.6"
+                android:background="@color/dark_slati"
+                android:gravity="center|bottom"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/button_textStyle"
+                    android:id="@+id/tv_choose_ride"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/text_margin_xxxlarge_25"
+                    android:layout_marginRight="@dimen/text_margin_xxxlarge_25"
+                    android:background="@drawable/border_round_yellow"
+                    android:gravity="center"
+                    android:padding="@dimen/text_margin_medium_10"
+                    android:text="@string/choose_your_ride"
+                    android:textColor="@color/dark_wh"
+                    />
+
+                <TextView
+                    android:layout_marginTop="@dimen/activity_margin_normal"
+                    style="@style/button_textStyle"
+                    android:id="@+id/tv_about"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/activity_margin_normal"
+                    android:layout_marginLeft="@dimen/text_margin_xxxlarge_25"
+                    android:layout_marginRight="@dimen/text_margin_xxxlarge_25"
+                    android:background="@drawable/border_round_yellow"
+                    android:gravity="center"
+                    android:padding="@dimen/text_margin_medium_10"
+                    android:text="@string/about"
+                    android:textColor="@color/dark_wh"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/ll_placeholder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_centerInParent="true"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+>
+            <ImageView
+
+                android:scaleType="fitXY"
+                android:layout_gravity="center_vertical"
+                android:id="@+id/iv_gif"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

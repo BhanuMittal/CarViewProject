@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/slati"
+    android:layout_height="match_parent"
+    android:paddingTop="?attr/actionBarSize"
+    android:orientation="vertical">
+    <LinearLayout
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:textColor="@color/white"
+            android:paddingRight="@dimen/activity_margin_normal"
+            style="@style/button_textStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_version" />
+        <TextView
+            android:textColor="@color/white"
+
+            android:id="@+id/tv_app_version"
+            style="@style/button_textStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/about" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/activity_margin_normal"
+        android:orientation="horizontal">
+        <TextView
+            android:textColor="@color/white"
+
+            android:paddingRight="@dimen/activity_margin_normal"
+            style="@style/button_textStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/email" />
+        <TextView
+            android:textColor="@color/white"
+
+            android:id="@+id/tv_email"
+            style="@style/button_textStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/about" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:paddingTop="@dimen/activity_margin_normal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:textColor="@color/white"
+
+            android:paddingRight="@dimen/activity_margin_normal"
+            style="@style/button_textStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dev_name" />
+        <TextView
+            android:textColor="@color/white"
+            android:id="@+id/tv_dev_name"
+            style="@style/button_textStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/about" />
+    </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

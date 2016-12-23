@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_ff4cabdb738c3101d0ecdb47d08aa296abd8b2cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_bbeb5833cfc2a6053f0eff36341972b71916aab3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.0_872c146b3f4628b360c06327fb94b62fe449faa1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ef45dffaf6d45a785e1ca67cb83368e4a3bcb17a">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_13541547bbe881de9bf117110f0e5aad71502f69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_053d0f5e854439dbbcf6c70e01f1c8b09735cd48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_b054fb838067372b168ec4c9ac6fcfaa81d91e55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_d6fb2a0bb4c97affc9a4e529dc2d8821d2175a57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_a6176b3fd9b26700ff2d609c5e1df5c5c43e3878\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_a9f566562d18d2e5b5dd8a3973fc6e9d1b0fdba4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f2234adcefb9de268da37900c33bc6fa4149fb06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_fa061fa46429ba1077ccb343922a06f4f65fca91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7647f10b0106ac9d7603e32a47b37c8b6ae034cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_825b85062905cce3edfe0dea3ab76b37891745c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_979ea320f15dce83df978df1777a3b0207a28a30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="442bc5fda41372113e064c8cefb3b2982afcade3">
+        <dex dex="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4c3a68335eb813e6e591b2426cbf1d6af2efa84d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_f6995c8c67b27af673fb93798daccd301e906f8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d52afe40c01fd8b0fdd9f62fe1c6218990dc70b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_eb87dcf7738484ff98217d56bd12c10caff2cd31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6466a488a418e48b794cd989771df8fedae6ab73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cce26356d5601126497c3f754fd83227d5af99bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.0_c3d2bcf135e4d00609b3e167051369ce4203c5bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_f36c84c3a9f9cdb1f4486dee0b75c22f6b0446ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_857609c4b2414e0449ba1772cf1d0d57ed1e3fe5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_d14873bdb3715ff14275c7d7b91e6143878a7cde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_3799924db005df20a6516452553d33de93f62edd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_e2dbcfdfb7c8363968f179f903300c0f84af5c80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_a6333bda92e86e1021c26182d230d859eeb3b529\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_5691dcbc6c3e61e71a157559d6946a81e929710c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3145647d169f73f45d81d50b640cbd2301358f29">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8d7a340f4011c8d76b1f24a5f5e85c80a456ab84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eda0567b14693e184e1124180b3d5635159b43c4">
+        <dex dex="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_35c0dda5d7b4d5b1f9941c1f18c8a40f1af010bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_375f208c1c3628a069b6857a388df7a2bb808ccc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_2944d94ffcd562a45cd5aadabe24574f83d9ddce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_a53f1518274f316e8bf75ab048d28c653eff93ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_39cb7b79723a1850a27a8f3f84222ae9b2bf0b90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_562a33f7be8785aec4ab6fdb2c1e6db40c4ab0c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_490fdd53737d7414935ec5a80783ac4154fcdc25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_b90b637e0887ba68311f2773a37ec3c2902f3063\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\euj346\finalproject-bhanu-BhanuMittal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a4116fefa5ddcab7ec7d5e34f3f7ad4cbaa86b43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_08e5a03134efad91c7662c3ab774d3c4fe43b93d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\euj346\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\euj346\FinalProject-BhanuMittal-Original\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_353970329a3fd8382b6990f31c959ae119f61ca9\classes.dex" />
+    </item>
+
+</items>
